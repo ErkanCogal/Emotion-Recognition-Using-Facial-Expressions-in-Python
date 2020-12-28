@@ -6,4 +6,4 @@ The dataset containing human expressions images with a size of approximately 1.5
 ##  *train_landmarks* files contain result of the prediction in form of confusion matrix 
 
 
-*I will make the necessary updates soon.*
+*Sorry for the short description. I will make the necessary updates soon.*
